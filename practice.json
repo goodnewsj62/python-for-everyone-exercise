@@ -1,0 +1,8 @@
+[
+  {"numeric": 30,"string": "testing321","float": 535.30,"bool": true},
+  {"numeric": 20,"string": "testing3","float": 245.90,"bool": false},
+  {"numeric": 50,"string": "test","float": 840.55,"bool": true},
+  {"numeric": 60,"string": "testing321","float": 880.96,"bool": true},
+  {"numeric": 340,"string": "obviously testing","float": 4880.335,"bool": false},
+  {"numeric": 38,"string": "testing32","float": 830.93,"bool": true}
+]
